@@ -1,0 +1,22 @@
+3
+S B C
+3
+a b c
+S
+8
+S
+aSBC
+S
+aBC
+aB
+ab
+bB
+bb
+bC
+bc
+cC
+Cc
+CB
+BC
+cB
+Bc

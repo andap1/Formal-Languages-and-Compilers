@@ -1,0 +1,13 @@
+﻿  AFD.cpp
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(48,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(52,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(58,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(61,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(73,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(81,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(89,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(93,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(99,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\TEMA3\TEMA3\AFD.cpp(118,31): warning C4018: '<': signed/unsigned mismatch
+  TEMA3.vcxproj -> C:\Users\User\Desktop\TEMA3\Debug\TEMA3.exe

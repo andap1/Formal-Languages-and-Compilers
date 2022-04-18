@@ -1,0 +1,17 @@
+﻿  LFC2.cpp
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(86,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(89,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(100,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(101,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(105,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(111,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(129,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(133,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(136,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(139,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\LFC2\LFC2\LFC2.cpp(145): warning C4715: 'Gramatica::verificare': not all control paths return a value
+  LFC2.vcxproj -> C:\Users\User\Desktop\LFC2\Debug\LFC2.exe
